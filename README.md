@@ -2,3 +2,5 @@
 
 ## About
 Quick shoe size converter for sneaker reselling.
+
+## Features
